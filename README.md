@@ -5,7 +5,7 @@
 **MSRC case:** 106183  
 **Security impact:** Security Feature Bypass  
 **Status:** Complete and disclosure allowed by MSRC  
-**Disclosed on:** 17 April 2026
+**Disclosed on:** 30 April 2026
 
 ## Short version
 
