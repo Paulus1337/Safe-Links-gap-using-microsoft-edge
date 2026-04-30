@@ -172,7 +172,7 @@ MSRC later confirmed I was allowed to disclose it publicly.
 - **18 January 2026** - Report submitted to MSRC (**VULN-171095**)
 - **20 January 2026** - MSRC opened **Case 106183**
 - **10 February 2026** - MSRC confirmed engineering investigation was in progress
-- **17 April 2026** - MSRC confirmed I was cleared for public disclosure
+- **30 April 2026** - MSRC confirmed I was cleared for public disclosure
 
 ## References
 - [Microsoft Edge Search Bar feature page](https://www.microsoft.com/en-us/edge/features/edge-search-bar)
